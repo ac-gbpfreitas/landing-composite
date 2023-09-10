@@ -8,7 +8,7 @@
         </header>
         <section class="content">
             <figure>
-                <img src="./assets/img/company-01.jpg" alt="Company1">
+                <img src="./../../assets/img/company-01.jpg" alt="Company1">
                 <figcaption>
                     <div>
                         <h3>PHP Software Developer Junior</h3>
@@ -26,7 +26,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="./assets/img/company-02.jpg" alt="Company2">
+                <img src="./../../assets/img/company-02.jpg" alt="Company2">
                 <figcaption>
                     <div>
                         <h3>Teacher Assistant</h3>
@@ -43,7 +43,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="./assets/img/company-03.jpg" alt="Company3">
+                <img src="./../../assets/img/company-03.jpg" alt="Company3">
                 <figcaption>
                     <div>
                         <h3>Junior Software Developer</h3>
@@ -60,7 +60,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="./assets/img/company-04.jpg" alt="Company4">
+                <img src="./../../assets/img/company-04.jpg" alt="Company4">
                 <figcaption>
                     <div>
                         <h3>PHP Software Developer Junior</h3>

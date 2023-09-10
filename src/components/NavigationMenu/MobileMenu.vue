@@ -1,7 +1,7 @@
 <template>
     <!-- MOBILE MENU -->
     <div class="mobile-menu-wrapper">
-        <label for="toggle">&#9776</label>
+        <label for="toggle">&#9776;</label>
         <input type="checkbox" name="toggle" id="toggle">
         <ul class="mobile-menu">
             <li><a href="#">Home</a></li>

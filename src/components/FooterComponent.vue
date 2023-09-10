@@ -9,7 +9,6 @@
             Copyright &copy; Your Project Name
         </p>
     </footer>
-    <script defer src="https://friconix.com/cdn/friconix.js"></script> 
 </template>
 
 <script>

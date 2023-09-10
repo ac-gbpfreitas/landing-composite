@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <header class="banner">
         <div>
             <article>
                 <h1>Creative web design Portfolio</h1>
