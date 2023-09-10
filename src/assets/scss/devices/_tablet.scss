@@ -1,0 +1,107 @@
+@media (min-width: $tabletScreen) {
+
+    .row-title {
+        text-align: center;
+        row-gap: 1rem;
+        width: 70%;
+
+        h2 {
+            font-size: 2.3rem;
+            color: $defaultOrange;
+            font-weight: 500;
+            text-shadow: 1px 1px $secondColor;
+        }
+    }
+
+    .mobile-menu-wrapper {
+        display: none;
+    }
+
+    .mega-menu {
+        width: 70%;
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+
+        a {
+            font-size: 1.2rem;
+            color: $defaultOrange;
+        }
+    }
+
+    .banner {
+        min-height: 30vh;
+
+        div {
+            padding-top: 0vh;
+        }
+    }
+
+    .circles {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 3rem;
+        li {
+
+            width: 40%;
+
+            > p {
+                width: 10vh;
+                height: 10vh;
+            }
+        }
+    }
+
+    .about {
+        .content {
+            flex-direction: row;
+            width: 90%;
+        }
+
+        .left,
+        .right {
+            width: 50%;
+        }
+
+        .right {
+            justify-content: center;
+        }
+    }
+
+    .portfolio {
+        .content {
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        figure {
+            justify-content: flex-end;
+            min-height: 40vh;
+            width: 40%;
+        }
+    }
+
+    .contact {
+        [type="submit"]:hover {
+            cursor: pointer;
+            background-color: whitesmoke;
+            color: #333;
+        }
+    }
+
+    .page-footer {
+        a {
+            font-size: 1.5rem;
+            width: 4vh;
+            height: 4vh;
+            transition: .6s ease;
+        }
+
+        a:hover {
+            background-color: whitesmoke;
+            color: #333;
+        }
+    }
+
+}

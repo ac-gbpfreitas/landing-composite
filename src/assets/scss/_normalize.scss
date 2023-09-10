@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: $defaultFontFamily;
+}
+
+:root {
+    --defaultOrange : #FFA400;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+figure,
+figcaption {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 50%;
+}
+
+*:focus {
+    outline: none;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
